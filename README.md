@@ -14,7 +14,7 @@
 
 ### What I'm Working On
 
-- **Research Intern @ SVNIT Surat** -- Designing adversarial attacks on transformer-based Person Re-Identification systems. Built *TransEvade*, reducing Rank-1 accuracy to 1.67% on DukeMTMC-reID.
+- **Research Intern @ SVNIT Surat** -- Working on adversarial robustness in transformer-based computer vision systems. Paper currently under review.
 - **ML Coordinator @ Google Developer Groups** -- Led a 12-week ML bootcamp for 200+ students.
 - **CV Coordinator @ DataWorks Club** -- Mentoring 100+ members on real-time CV pipelines with YOLOv8 & TensorRT.
 
@@ -24,7 +24,7 @@
 |---------|-------------|-------|
 | [**CourtSense AI**](https://github.com/udayraj1238/CourtSense-AI) | Converts tennis videos into interactive 3D replays with real-time speed & spin stats | YOLOv8, SegFormer, OpenCV, FastAPI, React, Three.js |
 | [**PaliGemma VLM**](https://github.com/udayraj1238/Pytorch_PaliGemma) | Google's Vision-Language Model built from scratch -- SigLIP + Gemma + multimodal projector | PyTorch, Transformers, SigLIP, RoPE, KV-Cache |
-| [**TransEvade**](https://github.com/udayraj1238/Person-ReID-Attack-Implementation) | Adversarial attack research on Person Re-ID across Market-1501, DukeMTMC, MSMT17 | PyTorch, SegFormer, Adversarial ML, CUDA |
+| **Adversarial ML Research** | Exploring adversarial attacks on person re-identification systems (paper under review) | PyTorch, SegFormer, Adversarial ML, CUDA |
 | [**Grid07 Cognitive Engine**](https://github.com/udayraj1238/grid07-cognitive-engine) | AI engine with LangGraph orchestration, RAG pipelines & prompt injection defense | Python, LangChain, LangGraph, RAG |
 
 ### Highlights
