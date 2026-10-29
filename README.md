@@ -31,7 +31,7 @@
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🔬-Research_Intern-0D9488?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
 <b>SVNIT Surat</b><br/>
-Adversarial robustness research on transformer-based CV systems.<br/>Paper under review.
+Adversarial robustness research on transformer-based CV systems.<br/>Paper under review at an A-ranked conference.
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/🤖-ML_Coordinator-3B82F6?style=for-the-badge&labelColor=1a1a2e" /><br/><br/>
@@ -78,12 +78,12 @@ Google's VLM built from the ground up — SigLIP + Gemma + multimodal projector.
 <tr>
 <td width="50%">
 
-### [⚡ Grid07 Cognitive Engine](https://github.com/udayraj1238/grid07-cognitive-engine)
-**AI Routing + RAG + Prompt Defense**
+### [📨 DistroSync](https://github.com/udayraj1238/DistroSync)
+**Distributed Task Queue from Scratch**
 
-Vector routing, LangGraph orchestration, and RAG combat engine with prompt injection defense.
+Raw asyncio TCP broker with SQLite WAL crash recovery, DLQ and token-bucket load shedding. 3,000+ tasks/sec, P99 under 5 ms.
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" /> <img src="https://img.shields.io/badge/asyncio-306998?style=flat-square" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
 
 </td>
 <td width="50%">
@@ -91,7 +91,7 @@ Vector routing, LangGraph orchestration, and RAG combat engine with prompt injec
 ### [🔧 Transformer from Scratch](https://github.com/udayraj1238/Transformer_from_scratch_using_pytorch)
 **"Attention Is All You Need" in PyTorch**
 
-Complete encoder-decoder Transformer — multi-head attention, positional encoding, masking.
+Complete encoder-decoder Transformer — multi-head attention, positional encoding, masking, beam search.
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" /> <img src="https://img.shields.io/badge/Self--Attention-F97316?style=flat-square" /> <img src="https://img.shields.io/badge/Encoder--Decoder-DC2626?style=flat-square" />
 
@@ -116,7 +116,7 @@ Complete encoder-decoder Transformer — multi-head attention, positional encodi
 </tr>
 <tr>
 <td align="center">⭐</td>
-<td><b>3-Star CodeChef</b> (Rating 1630) | <b>100+ DSA problems</b> on LeetCode & Code360</td>
+<td><b>3-Star CodeChef</b> (1631) | <b>Codeforces Pupil</b> (1314) | <b>200+</b> competitive programming problems</td>
 </tr>
 </table>
 
